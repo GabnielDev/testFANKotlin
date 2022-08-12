@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303116037596",
+    "project_id": "test-fan-a7fa8",
+    "storage_bucket": "test-fan-a7fa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303116037596:android:5b040bc8a32973ff753319",
+        "android_client_info": {
+          "package_name": "com.example.testfankotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303116037596-vcjt9eo37odv7irqlqpp1ftepgi5np4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNOqjU2LNTEV6HTKleOzA2PDkCSX6CCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303116037596-vcjt9eo37odv7irqlqpp1ftepgi5np4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

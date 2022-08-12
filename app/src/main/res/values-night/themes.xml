@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TestFan.DayNight." parent="Theme.TestFan" />
+
+    <style name="Theme.TestFan" parent="Theme.TestFANKotlin">
+        <item name="colorPrimary">#0084F4</item>
+        <item name="colorPrimaryVariant">#33A0FF</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#40B4FD</item>
+        <item name="colorSecondaryVariant">#9AD8FE</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+</resources>
